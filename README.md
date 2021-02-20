@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm [ttyS3!](https://ttys3.dev) 👋
 
 <!--
 **ttys3/ttys3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hey there, I'm [ttyS3!](https://ttys3.dev) 👋
 
 - 🔭 I’m currently working on Golang
 - 🌱 I’m currently learning Rust
