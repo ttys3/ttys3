@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Golang
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust 🦀
 
 
 <h2>🏆 Github Profile Trophy</h2>
