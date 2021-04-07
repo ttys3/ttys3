@@ -19,6 +19,22 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust 🦀
 
 
+## 🖥️ OS
+![ArchLinux](https://img.shields.io/badge/-ArchLinux-black?style=flat-square&logo=linux)
+![Fedora](https://img.shields.io/badge/-Fedora-black?style=flat-square&logo=fedora)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
+## 🛠️ Tool
+![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat-square&logo=neovim)
+![JetBrains](https://img.shields.io/badge/-JetBrains-black?style=flat-square&logo=jetbrains)
+![Emacs](https://img.shields.io/badge/-Emacs-black?style=flat-square&logo=emacs)
+
+## 🧲 Lang
+🦀 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+ ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
+ ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+
 <h2>🏆 Github Profile Trophy</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=ttys3&column=8&theme=gruvbox"/>
 
