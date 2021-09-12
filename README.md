@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 </div>
 
 
-this profile mainly powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+this profile mainly powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), available [themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
