@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ## 🖥️ OS
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-black?style=flat-square&logo=linux)
 ![Fedora](https://img.shields.io/badge/-Fedora-black?style=flat-square&logo=fedora)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 ## 🛠️ Tool
 ![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat-square&logo=neovim)
