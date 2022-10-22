@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 ### 🧲 Lang  🦀 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)   ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)   ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)   ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ttys3&column=8&theme=default"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ttys3&column=8&theme=flat"/>
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttys3&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ttys3&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ttys3&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ttys3&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ttys3&theme=default&utcOffset=0)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttys3&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ttys3&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ttys3&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ttys3&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ttys3&theme=solarized&utcOffset=0)
 
 ---
 
