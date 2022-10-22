@@ -35,14 +35,13 @@ Here are some ideas to get you started:
   ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
 <h2>🏆 Github Profile Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=ttys3&column=8&theme=nord"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ttys3&column=8&theme=default"/>
+
 
 ---
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ttys3&count_private=true&include_all_commits=true&theme=nord" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttys3&layout=compact&langs_count=8&theme=nord" />
-</div>
-
-
-this profile mainly powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), available [themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttys3&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ttys3&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ttys3&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ttys3&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ttys3&theme=default&utcOffset=0)
