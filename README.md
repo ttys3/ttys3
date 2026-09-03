@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Golang
-- 🌱 I’m currently learning Rust 🦀
+- 🔭 I’m currently working on Golang and Rust 🦀
 
 
 ### 🖥️ OS  ![ArchLinux](https://img.shields.io/badge/-ArchLinux-black?style=flat-square&logo=archlinux)  ![Fedora](https://img.shields.io/badge/-Fedora-black?style=flat-square&logo=fedora)
