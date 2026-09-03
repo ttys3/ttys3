@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 ### 🧲 Lang  🦀 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)   ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)   ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)   ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ttys3&column=8&theme=flat"/>
-
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttys3&theme=solarized)
